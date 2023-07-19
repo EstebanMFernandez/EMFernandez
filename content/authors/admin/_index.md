@@ -1,8 +1,8 @@
 ---
 title: Esteban M Fernandez
 role: PhD Candidate, Political Science
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: estebanfernandez500x500.jpg
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -51,6 +51,10 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+PhD Candidate in Political Science at MIT. My current research focuses on the intersection between popular culture and politics, with a focus on how television and music influence American's beliefs about the police.  
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+
+
+
 {style="text-align: justify;"}
